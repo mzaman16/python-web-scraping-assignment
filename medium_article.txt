@@ -1,0 +1,26 @@
+Your guide to Web Scraping in Python
+Aditi Deodhar
+Feb 8, 2024
+
+Source:
+https://aditideodhar.medium.com/your-guide-to-web-scraping-in-python-5e54ff08bcb2
+
+Scraped article text (excerpt):
+Welcome to the world of web scraping!
+
+Understanding Web Scraping:
+Web scraping is the process of extracting data from websites.
+
+Getting Started with Python:
+Python is commonly used for web scraping because of its simplicity and available libraries.
+
+Essential Libraries for Web Scraping:
+Two popular choices are Beautiful Soup and Requests.
+Beautiful Soup is used for parsing HTML/XML, while Requests is used for making HTTP requests.
+
+The article demonstrates sending a GET request, parsing HTML with Beautiful Soup, extracting page elements, and printing the resulting information.
+
+Useful Resources and References:
+Beautiful Soup Documentation
+Requests Documentation
+Automate the Boring Stuff with Python
